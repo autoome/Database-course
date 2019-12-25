@@ -1,0 +1,11 @@
+insert into Library(name,author,category,description) values('
+        三国演义','罗贯中','文学','一个杀伐纷争的年代');insert into Library(name,author,category,description) values('
+        水浒传','施耐庵','文学','108条好汉的故事');insert into Library(name,author,category,description) values('
+        西游记','吴承恩','文学','佛教与道教的斗争');insert into Library(name,author,category,description) values('
+        红楼梦','曹雪芹','文学','一个封建王朝的缩影');insert into Library(name,author,category,description) values('
+        明朝那些事儿','当年明月','历史','明朝的历史');insert into Library(name,author,category,description) values('
+        python入门','li','computer','python');insert into Library(name,author,category,description) values('
+        JAVA从入门到精通','mike','Computer','JAVA');insert into Library(name,author,category,description) values('
+        JAVA','Sara','Computer','JAVAheihei');insert into Library(name,author,category,description) values('
+        JAVA从入门到精通heihei','mike','Computer','JAVA');insert into Library(name,author,category,description) values('
+        JAVA从入门','mike','Computer','JAVA');

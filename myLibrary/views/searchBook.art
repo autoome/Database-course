@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>查询图书</title>
+</head>
+<body>
+    <div>查询图书</div>
+    <form action="/searchBook" method="post">
+        名称：<input type="text" name="name" value=""><br>
+        作者：<input type="text" name="author" value=""><br>
+        分类：<input type="text" name="category" value=""><br>
+        描述：<input type="text" name="description" value=""><br>
+        <input type="submit" value="查询">
+    </form>
+</body>
+</html>
